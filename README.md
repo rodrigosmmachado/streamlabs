@@ -1,8 +1,10 @@
 NOTICE: I wasn't able to complete all requirements in a 8h schedule. 
 
-Executables are located at deploy directory. Run server.exe first, then client.exe
+Latest executables version are located at deploy directory. Run server.exe first, then client.exe. 
+Notice: rebuilding the apps will place the executable in the Debug or Release directories 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Due to the time constrainst set for this project, only 8 work hours, and the fact that there were no explicit instruction to avoid open source libraries, two free libraries are used:
 
 1) Cereal
