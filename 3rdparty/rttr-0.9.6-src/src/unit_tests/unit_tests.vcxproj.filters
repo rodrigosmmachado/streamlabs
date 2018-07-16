@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\pch.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\misc\test_misc.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\misc\array_range_test.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\misc\string_view_test.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\misc\enum_flags_test.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\misc\library_test.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\property\property_access_level_test.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\property\property_misc_test.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\property\property_class_inheritance.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\property\property_class_invoke_wrapper.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\property\property_member_function.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\property\property_member_object.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\property\property_global_function.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\property\property_global_object.cpp">
+      <Filter>property</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\type\test_type.cpp">
+      <Filter>type</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\type\test_type_names.cpp">
+      <Filter>type</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\type\type_prop_meth_invoke.cpp">
+      <Filter>type</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\destructor\destructor_invoke_test.cpp">
+      <Filter>destructor</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\destructor\destructor_misc_test.cpp">
+      <Filter>destructor</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\constructor\constructor_access_level_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\constructor\constructor_default_arg_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\constructor\constructor_param_info_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\constructor\constructor_retrieve_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\constructor\constructor_invoke_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\constructor\constructor_misc_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\constructor\constructor_query_test.cpp">
+      <Filter>constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\enumeration\enumeration_conversion.cpp">
+      <Filter>enumeration</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\enumeration\enumeration_misc.cpp">
+      <Filter>enumeration</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\instance\instance_test.cpp">
+      <Filter>instance</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\method\method_invoke_defaults_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\method\method_access_level_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\method\test_method_reflection.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\method\method_default_arg_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\method\method_misc_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\method\method_invoke_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\method\method_param_info_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\method\method_query_test.cpp">
+      <Filter>method</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_assign_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_ctor_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_cmp_equal_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_cmp_less_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_cmp_greater_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_cmp_less_or_equal.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_cmp_greater_or_equal.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_misc_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_cast_test.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_to_bool.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_to_int8.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_to_int16.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_to_int32.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_to_int64.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_to_uint8.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_to_uint16.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_to_uint32.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_to_uint64.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_to_double.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_to_float.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_to_string.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\variant_conv_to_enum.cpp">
+      <Filter>variant</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant_associative_view\variant_associative_view_test.cpp">
+      <Filter>variant_associative_view</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant_sequential_view\variant_sequential_view_test.cpp">
+      <Filter>variant_sequential_view</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\test_classes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\method\test_method_reflection.h">
+      <Filter>method</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\type\test_type.h">
+      <Filter>type</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\variant\test_enums.h">
+      <Filter>variant</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="G:\my_code\streamlabs\3rdparty\rttr-0.9.6-src\src\unit_tests\version.rc">
+      <Filter>Generated Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{BA080731-53BC-3F65-A8AA-18EA6694FAEE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{94E680AD-4F0B-3069-A903-D40426D4C1DF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4BF9EB6C-60E1-3183-BAB1-CA672C2E81A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="constructor">
+      <UniqueIdentifier>{8D361B45-DA1B-325A-9511-7033608DBF15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="destructor">
+      <UniqueIdentifier>{5354D569-A894-3874-BC7C-DB3608CF4506}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="enumeration">
+      <UniqueIdentifier>{2C1EA157-2DE2-3AD6-A149-9BDFD9EA2D3A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="instance">
+      <UniqueIdentifier>{F3FCA7A3-C284-3E5C-957F-DE5D2EFB01B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="method">
+      <UniqueIdentifier>{1E28B09A-F0EF-3691-8485-6D5E14444223}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="misc">
+      <UniqueIdentifier>{23F18A3F-B4FF-3EDD-B94A-78F1B653D38B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="property">
+      <UniqueIdentifier>{F5B3F666-5161-3185-8A8D-C9E2F3AF1269}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="type">
+      <UniqueIdentifier>{DA25F8FE-A1F8-3E2F-8EC6-E9E940B7E562}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="variant">
+      <UniqueIdentifier>{7E119BAF-E282-3919-A48B-6F0AA89B2E8B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="variant_associative_view">
+      <UniqueIdentifier>{E92BA957-E310-35C2-AECC-C1A0FC4426F9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="variant_sequential_view">
+      <UniqueIdentifier>{FD250171-1193-3AFF-BF24-2725CD6E8F30}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

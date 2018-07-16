@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindDoxygen.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageMessage.cmake
+G:/my_code/streamlabs/3rdparty/rttr-0.9.6-src/doc/CMakeLists.txt
