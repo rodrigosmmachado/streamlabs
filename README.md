@@ -12,6 +12,8 @@ https://uscilab.github.io/cereal/
 
 A C++ reflection library.
 
+http://www.rttr.org
+
 Create two apps: server.exe and client.exe
 
 
