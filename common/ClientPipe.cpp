@@ -38,7 +38,6 @@ BOOL ClientPipe::connect()
                                         NULL, 
                                          NULL) )
          {
-            //PrintErrorMessage("SetNamedPipeHandleState failed:", GetLastError());
             throw NamedPipeGeneralException(::GetLastError());
          }
       }
@@ -47,7 +46,6 @@ BOOL ClientPipe::connect()
          // Exit if an error other than ERROR_PIPE_BUSY occurs. 
          if (GetLastError() != ERROR_PIPE_BUSY)
          {
-            //PrintErrorMessage("Could not open pipe:", ::GetLastError());
             throw NamedPipeGeneralException(::GetLastError());
          }
 
