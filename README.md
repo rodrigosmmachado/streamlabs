@@ -1,5 +1,8 @@
 NOTICE: I wasn't able to complete all requirements in a 8h schedule. 
 
+Executables are located at deploy directory. Run server.exe first, then client.exe
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Due to the time constrainst set for this project, only 8 work hours, and the fact that there were no explicit instruction to avoid open source libraries, two free libraries are used:
 
 1) Cereal
@@ -14,8 +17,8 @@ A C++ reflection library.
 
 http://www.rttr.org
 
-Create two apps: server.exe and client.exe
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 CLIENT BRIEF  
 
@@ -29,12 +32,12 @@ Class RemoteCacheClient is responsible for requests for the server. This class c
 		
 The Client code run some calls to the remote cache: instantiate 3 instances for DemoClass, calls ListObject funciton, and call some methods (not working).
 		
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////		
 SERVER BRIEF
 
 Class ServerPipe: for server
 
 Class RemoteControlledCache: Serve requests
-
 
 Requests and responses are transmitted in json format, based on jsonrpc, with minor modifications. 
 
